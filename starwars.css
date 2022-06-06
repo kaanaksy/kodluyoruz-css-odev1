@@ -1,0 +1,28 @@
+h1,h2,article,a,li {
+    color: #ffe81e;
+}
+
+body {
+    background-color: black;
+}
+
+section {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    list-style-position: inside;
+}
+
+.text-type {
+    font-family:sans-serif;
+}
+
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    font-size: large;
+}
